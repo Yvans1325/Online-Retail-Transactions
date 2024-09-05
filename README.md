@@ -65,7 +65,7 @@ The EDA included an examination of the retail data to show diffrent aspects of t
    - Analyze revenue trends over time to identify peak sales periods
    - Determine which product brand has the highest revenue and which product category contribute to the most this revenue.
    - Determine the top-selling product by country, product brand
- -**Customer satisfaction** : Determine the overall average rating, by country
+ -**Customer satisfaction** : Determine the overall average rating from customer, by country
 
 ### 5. Visualization
 A detailed report with visualizations and insights derived from the dataset has been created on PowerBI
