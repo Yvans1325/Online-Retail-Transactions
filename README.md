@@ -49,16 +49,32 @@ Tools used for this project
 3. PowerBI: Creating report
 
 ### 3. Data Cleaning/Preparation
-In this phase, the following tasks ave been done:
+In this phase, the following tasks have been done:
 
 1. Removing data duplicate, if any
 2. Standardizing data for any column
 3. Handling with null value
 4. Removing columns or rows not necessary
 
-### 4. Exploratory Data Analysis
+### 4. Exploratory Data Analysis (EDA)
+The EDA included an examination of the retail data to show diffrent aspects of the sales.
+- **Customer Segmentation** :
+   - Determine which segment of customer contribute the most to the revenue ( income, segment, group age)
+   - Identify high-value customers and target them for marketing campaigns.
+ - **Sales Performance Analysis** :
+   - Analyze revenue trends over time to identify peak sales periods
+   - Determine which product brand has the highest revenue and which product category contribute to the most this revenue.
+   - Determine the top-selling product by country, product brand
+ -**Customer satisfaction** : Determine the overall average rating, by country
 
 ### 5. Visualization
+A detailed report with visualizations and insights derived from the dataset has been created on PowerBI
 
 ### 6. Insights and recommandation
+
+### 7. Challenges and Considerations:
+**Data Quality**: Handling missing data, outliers, and inconsistencies in the dataset.
+**Scalability**: Designing the analysis and models to handle large datasets efficiently.
+
+
 
