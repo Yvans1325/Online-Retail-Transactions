@@ -1,4 +1,4 @@
-# Online Retail Analysis
+# Online Retail Transactional Analysis
 
 ### 1. Project Overview
 The goal of this project is to analyze online retail transaction data, specifically for uncovering trends, patterns, and actionable insights that can help improve sales strategies, customer satisfaction, and overall business performance.
@@ -61,11 +61,11 @@ The EDA included an examination of the retail data to show diffrent aspects of t
 - **Customer Segmentation** :
    - Determine which segment of customer contribute the most to the revenue ( income, segment, group age)
    - Identify high-value customers and target them for marketing campaigns.
- - **Sales Performance Analysis** :
+- **Sales Performance Analysis** :
    - Analyze revenue trends over time to identify peak sales periods
    - Determine which product brand has the highest revenue and which product category contribute to the most this revenue.
-   - Determine the top-selling product by country, product brand
- -**Customer satisfaction** : Determine the overall average rating from customer, by country
+   - Determine the top-selling product by country, product brand   
+- **Customer satisfaction** : Determine the overall average rating from customer, by country
 
 ### 5. Visualization
 A detailed report with visualizations and insights derived from the dataset has been created on PowerBI
@@ -74,6 +74,7 @@ A detailed report with visualizations and insights derived from the dataset has 
 
 ### 7. Challenges and Considerations:
 **Data Quality**: Handling missing data, outliers, and inconsistencies in the dataset.
+
 **Scalability**: Designing the analysis and models to handle large datasets efficiently.
 
 
