@@ -94,10 +94,21 @@ The insights are summarized as follow :
 - The revenue of companies fluctuate up and down over month.
   - Peak monthly sales : March 2023
   - Low monthly sales : February 2024
+- Thursday is the busiest day of the week in terms of purchases.
 - A list of customer with the high lifetime value including their name, phone, email, address has been created for marketing promotion.
 - Customers under 35 years old have contributed the most to the revenue
 - In terms of revenues and purchases, if we consider the gender of customers, men are about twice as represented as women.
 - Out of 5, the customer rating average is 3.16.
+
+### 7. Recommendations
+
+The following actions are recommendaed based on the analysis:
+
+- Based on the strategies developed by the U.S. company managers, organize cross-country brainstorming sessions between managers from other region to learn from them and improve strategies for increasing revenue.
+- Compagnies should focus on promoting their top products to maximize revenue
+- Basesd on the products most frequently purchased by under-35 population, compagnies could also expand and promote these products to increase revenue
+- Store managers must ensure that shelves are fully stocked every Wednesday evening and throughout the day on Thursday to maximize revenue
+
   
 ### 7. Challenges and Considerations:
 **Data Quality**: Handling missing data, outliers, and inconsistencies in the dataset.
