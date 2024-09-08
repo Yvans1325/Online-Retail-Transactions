@@ -70,7 +70,7 @@ The EDA included an examination of the retail data to show diffrent aspects of t
 ### 5. Visualization
 A detailed report with visualizations and insights derived from the dataset has been created on PowerBI
 
-### 6. Insights
+### 6. Results
 
 The insights are summarized as follow :
 ##### NB: Same companies were observed in each country
@@ -84,7 +84,9 @@ The insights are summarized as follow :
   - Peak monthly sales : March 2023
   - Low monthly sales : February 2024
 - A list of customer with the high lifetime value including their name, phone, email, address has been created for marketing promotion.
-- 
+- Customers under 35 years old have contributed the most to the revenue
+- In terms of revenues and purchases, if we consider the gender of customers, men are about twice as represented as women.
+- Out of 5, the customer rating average is 3.16.
   
 ### 7. Challenges and Considerations:
 **Data Quality**: Handling missing data, outliers, and inconsistencies in the dataset.
