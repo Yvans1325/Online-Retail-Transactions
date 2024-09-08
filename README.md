@@ -1,5 +1,5 @@
 # Online Retail Transactional Analysis
-[Results](#results)
+
 ### 1. Project Overview
 The goal of this project is to analyze online retail transactional data, specifically for uncovering trends, patterns, and actionable insights that can help improve sales strategies, customer satisfaction, and overall business performance.
 
