@@ -101,6 +101,7 @@ The insights are summarized as follow :
   
 ### 7. Challenges and Considerations:
 **Data Quality**: Handling missing data, outliers, and inconsistencies in the dataset.
+
 **Scalability**: Designing the analysis and models to handle large datasets efficiently.
 
 
