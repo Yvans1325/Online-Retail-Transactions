@@ -70,11 +70,19 @@ The EDA included an examination of the retail data to show diffrent aspects of t
 ### 5. Visualization
 A detailed report with visualizations and insights derived from the dataset has been created on PowerBI
 
-### 6. Insights and recommandation
+### 6. Insights
 
+The insights are summarized as follow :
+##### NB: Same companies were observed in each country
+
+- Companies located in USA combined the highest revenue over past year. In a list of the 20 companies with the highest revenue, 15 companies from the USA occupy the first 15 places. 
+- In any country, PEPSI is the product brand that made the highest total amount from sales.
+- The top three selling-product contributing the most to the revenue are : 1. Water  2. Smartphone  3. Fiction books
+- The top selling product by category are: 1. Electronics - 2. Grocery - 3. Clothing - 4. Books - 5. Home decor
+- 
+  
 ### 7. Challenges and Considerations:
 **Data Quality**: Handling missing data, outliers, and inconsistencies in the dataset.
-
 **Scalability**: Designing the analysis and models to handle large datasets efficiently.
 
 
