@@ -1,20 +1,18 @@
 # Online Retail Transactional Analysis
 
 ### 1. Project Overview
-The goal of this project is to analyze online retail transaction data, specifically for uncovering trends, patterns, and actionable insights that can help improve sales strategies, customer satisfaction, and overall business performance.
+The goal of this project is to analyze online retail transactional data, specifically for uncovering trends, patterns, and actionable insights that can help improve sales strategies, customer satisfaction, and overall business performance.
 
 ### 2. Data Collection
 #### 2.1 Data Sources
-This dataset has been downloaded from the platform Kaggle. It represents retail transational data for 5 countries (USA, UK, CAnada, Australia and Germany) over the past year ( Mar 23 - Fev 24). It also contains information about customers, their purchases, products, and transaction details.
+This dataset has been downloaded from the platform Kaggle. It represents retail transational data for 5 countries (USA, UK, CAnada, Australia and Germany) over the past year ( Mar 23 - Fev 24). It also contains information about customers, their purchases, products, and transactions details.
 
 The data includes various attributes :
 
 #### 2.2 Attributes
 
 - **Transaction ID**: Unique identifier for each transaction.
-
 - **Customer ID**: Unique identifier for each customer.
-
 - **Name**: Name of the customer.
 - **Email**: Email of the customer.
 - **Phone**: Phone number of the customer.
@@ -31,7 +29,7 @@ The data includes various attributes :
 - **Year_transaction**: Year of the transaction.
 - **Month_Transaction**: Month of the transaction.
 - **Total_purchases**: Number of units purchased.
-- **Amount**: Price per unit.
+- **Amount**: Amount spent per transaction.
 - **Total_Amount**: Total amount spent in the transaction.
 - **Product_category**: Category of product
 - **Product_brand**: Brand of the product
@@ -41,6 +39,7 @@ The data includes various attributes :
 - **Payment_method**: Method of payment
 - **Order_status**: Status of the order
 - **Rating**: Customer rating
+- **Products**: Product bought
 
 #### 2.3 Tools
 Tools used for this project
@@ -63,7 +62,7 @@ The EDA included an examination of the retail data to show diffrent aspects of t
    - Identify high-value customers and target them for marketing campaigns.
 - **Sales Performance Analysis** :
    - Analyze revenue trends over time to identify peak sales periods
-   - Determine which product brand has the highest revenue and which product category contribute to the most this revenue.
+   - Determine which product brand has the highest revenue and which product category contribute the most to the revenue.
    - Determine the top-selling product by country, product brand   
 - **Customer satisfaction** : Determine the overall average rating from customer, by country
 
@@ -112,7 +111,7 @@ The following actions are recommendaed based on the analysis:
 ### 7. Challenges and Considerations:
 **Data Quality**: Handling missing data, outliers, and inconsistencies in the dataset.
 
-**Scalability**: Designing the analysis and models to handle large datasets efficiently.
+**Scalability**: Designing the analysis to handle large datasets efficiently.
 
 
 
