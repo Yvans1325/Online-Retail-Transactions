@@ -1,8 +1,8 @@
 # Online Retail Transactional Analysis
 
 ## Table of Contents
-- [1. Project Overview](project-overview)
-- [2. Data collection](#data-collection)
+- [1. Project Overview](#project-overview)
+- [2. Data collection](/data-collection)
 - [3. Data Cleaning/Preparation](#data-cleaning-/-preparation)
 
 ### 1. Project Overview
