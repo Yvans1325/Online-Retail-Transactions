@@ -109,9 +109,11 @@ The following actions are recommendaed based on the analysis:
 - Store managers must ensure that shelves are fully stocked every Tuesday evening and throughout the day on Wednesday and Thursday to maximize revenue.
   
 ### 7. Challenges and Considerations:
+
 **Data Quality**: Handling missing data, outliers, and inconsistencies in the dataset.
 
 **Scalability**: Designing the analysis to handle large datasets efficiently.
 
-
+### References
+[The complete Oracle SQL Bootcamp 2024 by UDEMY](https://www.udemy.com/course/oracle-sql-12c-become-an-sql-developer-with-subtitle/?kw=the+complete+oracle+sql+bootcamp&src=sac&subs_filter_type=subs_only)
 
