@@ -77,9 +77,20 @@ The insights are summarized as follow :
 
 - Companies located in USA combined the highest revenue over past year. In a list of the 20 companies with the highest revenue, 15 companies from the USA occupy the first 15 places. 
 - In any country, PEPSI is the product brand that made the highest total amount from sales.
-- Top three product brand are : **1. PEPSI  2. SAMSUNG  3. SONY**
-- The top three selling-product driving the highest revenue and purchases are : **1. Water  2. Smartphone  3. Fiction books**
-- The top selling product by category are: **1. Electronics - 2. Grocery - 3. Clothing - 4. Books - 5. Home decor**
+- Top three product brand are :
+  - 1. Pepsi
+  - 2. Samsung
+  - 3. Sony
+- The top three selling-product driving the highest revenue and purchases are :
+  - 1. Water
+  - 2. Smartphone
+  - 3. Fiction books
+- The top selling product by category are:
+  - 1. Electronics 
+  - 2. Grocery
+  - 3. Clothing
+  - 4. Books 
+  - 5. Home decor
 - The revenue of companies fluctuate up and down over month.
   - Peak monthly sales : March 2023
   - Low monthly sales : February 2024
