@@ -5,7 +5,7 @@ The goal of this project is to analyze online retail transactional data, specifi
 
 ### 2. Data Collection
 #### 2.1 Data Sources
-This dataset has been downloaded from the platform Kaggle. It represents retail transational data for 5 countries (USA, UK, CAnada, Australia and Germany) over the past year ( Mar 23 - Fev 24). It also contains information about customers, their purchases, products, and transactions details.
+This dataset has been downloaded from the platform Kaggle. It represents retail transational data for 5 countries (USA, UK, Canada, Australia and Germany) over the past year ( Mar 23 - Fev 24). It also contains information about customers, their purchases, products, and transactions details.
 
 The data includes various attributes :
 
@@ -105,7 +105,7 @@ The following actions are recommendaed based on the analysis:
 
 - Based on the strategies developed by the U.S. company managers, organize cross-country brainstorming sessions between managers from other region to learn from them and improve strategies for increasing revenue.
 - Compagnies should focus on promoting their top products to maximize revenue
-- Basesd on the products most frequently purchased by under-35 population, compagnies could also expand and promote these products to increase revenue
+- Based on the products most frequently purchased by under-35 population, compagnies could also expand and promote these products to increase revenue
 - Store managers must ensure that shelves are fully stocked every Tuesday evening and throughout the day on Wednesday and Thursday to maximize revenue.
   
 ### 7. Challenges and Considerations:
